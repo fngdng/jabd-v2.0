@@ -1,9 +1,0 @@
-{
-    "prefix": "!",
-    "login": {
-        "relayAddress": "ws://localhost:3000/!4f5f569bf57553cb0300697973e1e3f0f8cf83872a40603abdd2c771602d2ab0",
-        "accountID": "93ebd050-910f-476b-b09a-f55063f643d5",
-        "encryptionKey": "fbd453817c4b1fe1f937142b980006f65e77c0bc3dd9cfe050a7e4c0ec13c712"
-    },
-    "owner": "your id"
-}
