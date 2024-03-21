@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@badaimweeb/fca_xfrelay": "https://ead-be1.badaimweeb.me/download/b5cb4aee-9491-4163-8477-fc8e923c34ef",
+    "axios": "^1.6.8",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7",
+    "url": "^0.11.3"
+  },
+  "name": "fca_xfrelay_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
